@@ -26,6 +26,7 @@ Set your OpenAI API key first:
 
 ```bash
 export OPENAI_API_KEY=your-api-key-here
+```bash
 
 Then launch the web app:
 
