@@ -1,0 +1,1 @@
+Experienced AI engineer with a background in NLP and computer vision. Built production ML pipelines using Python, PyTorch, and Docker. Former intern at Schneider Electric working on predictive maintenance models. Led a team hackathon project to optimize supply chain forecasting. Skilled in Git, REST APIs, and model deployment on AWS. 

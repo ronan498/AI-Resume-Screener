@@ -1,0 +1,1 @@
+We are looking for a Machine Learning Engineer with experience in NLP, model deployment, and Python. Familiarity with LLMs, AWS, and strong software engineering skills are a plus. 
