@@ -24,10 +24,11 @@ There's a simple Streamlit UI for interacting with it, and a command-line versio
 
 Set your OpenAI API key first:
 
- ```bash
- export OPENAI_API_KEY=your-api-key-here
-
+```bash
+export OPENAI_API_KEY=your-api-key-here
+```
 Then launch the web app:
 
- ```bash
- streamlit run app.py
+```bash
+streamlit run app.py
+```
