@@ -13,7 +13,7 @@ There's a simple Streamlit UI for interacting with it, and a command-line versio
 
 ## What it does
 
-- Upload a resume and a job description (as `.txt` files)
+- Upload a resume and a job description
 - The model reads both and gives:
   - a match score (0–100)
   - a one-line explanation of how well they fit
